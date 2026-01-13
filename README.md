@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nguyencoder11&color=red" alt="nguyencoder11" height="24"/>
+  <img src="https://komarev.com/ghpvc/?username=Nguyencoder11&color=red" alt="nguyencoder11" height="40"/>
 </p>
 
 <h1 align="center">
@@ -144,44 +144,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!--
-<h2 align="left">Others</h2>
-<p align="left">
-  <a href="https://stackoverflow.com/users/22646567" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22646567" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nguyencoder11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nguyencoder11" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/lenhnguyen10a221" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lenhnguyen10a221" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/nguyencoder11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nguyencoder11" height="30" width="40" />     
-  </a>
-  <a href="https://hashnode.com/leviz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="leviz" height="30" width="40" />
-  </a>
-</p>
--->
+
 
 <h2 align="left">Commits Status</h2>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencoder11&theme=radical) -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyencoder11&show_icons=true&locale=en&layout=compact" alt="nguyencoder11" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&locale=en" alt="nguyencoder11" /></p> -->
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyencoder11&" alt="nguyencoder11" /></p> -->
-
-<!-- <a href="https://github.com/Nguyencoder11" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyencoder11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-<a href="http://www.github.com/Nguyencoder11">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nguyencoder11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nguyencoder11's GitHub stats" />
-</a>
-<a href="http://www.github.com/Nguyencoder11">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyencoder11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a> -->
