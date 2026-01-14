@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/lenhnguyen403/lenhnguyen403/output/snake.svg" alt="Snake animation" />
+<img src="https://lenhnguyen403.github.io/lenhnguyen403/snake.svg" alt="Snake animation" />
 
 ###
