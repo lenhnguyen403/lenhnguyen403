@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats
 
-<div style="display: grid; grid-template-columns: repeat(3, auto); text-align: center;">
+<div>
+  <div>
+    <h3>GitHub Performance Overview</h3>
+    <img src="https://giaang-github-readme-stats.vercel.app/api?username=lenhnguyen403&show_icons=true&theme=radical&hide_border=true&show=reviews" alt="lenhnguyen403's Github Stats"/>
+  </div>
   <div>
     <h3 style="color: #">Top Language Stats</h3>
     <img src="https://giaang-github-readme-stats.vercel.app/api/top-langs/?username=lenhnguyen403&layout=compact&hide_border=true&theme=radical&cache_seconds=86400&hide=html,css,scss,handlebars" alt="lenhnguyen403's Github Top Language Stats"/>
@@ -48,12 +52,7 @@ Here are some ideas to get you started:
     <h3>Contribution Stats</h3>
     <img src="https://giaang-github-readme-streak-stats.vercel.app?user=lenhnguyen403&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="lenhnguyen403's Github Streak" />
   </div>
-  <div>
-    <h3>GitHub Performance Overview</h3>
-    <img src="https://giaang-github-readme-stats.vercel.app/api?username=lenhnguyen403&show_icons=true&theme=radical&hide_border=true&show=reviews" alt="lenhnguyen403's Github Stats"/>
-  </div>
 </div>
-
 
 ###
 
