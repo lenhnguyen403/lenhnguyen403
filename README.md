@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-  <td width="50%">
+  <td width="70%">
 
 ### Glad to see you here!
 
@@ -27,7 +27,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
   </td>
 
-  <td width="50%">
+  <td width="30%">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhiN3gydWljbXJzOGVpOXVkd3d5Y290dHc0M3I1d3Buazg2OG05MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
   </td>
 </tr>
