@@ -3,13 +3,10 @@
 -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lenhnguyen403&color=blue" alt="lenhnguyen403" height="25"/>
-  <a style="display: inline-block;" href="https://www.github.com/lenhnguyen403" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/lenhnguyen403?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-  <a style="display: inline-block;" href="https://www.x.com/diayti311" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/diayti311?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-  </a>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=lenhnguyen403&label=Profile%20Views&color=0e75b6&style=for-the-badge)]()
+  [![GitHub Followers](https://img.shields.io/github/followers/lenhnguyen403?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/lenhnguyen403)
+  
 </div>
 
 ######
