@@ -404,19 +404,21 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </tr> -->
 </table>
 
-# 📊 GitHub Stats
+# 📊 Github Stats
 
 <table>
   <tr align="center">
-    <td valign="top" width="33.3333%">
+    <td valign="top">
       <h3>GitHub Performance Overview</h3>
       <img src="https://giaang-github-readme-stats.vercel.app/api?username=lenhnguyen403&show_icons=true&theme=radical&hide_border=true&show=reviews" alt="lenhnguyen403's Github Stats"/>
     </td>
-    <td valign="top" width="33.3333%">
+    <td valign="top">
       <h3>Top Language Stats</h3>
       <img src="https://giaang-github-readme-stats.vercel.app/api/top-langs/?username=lenhnguyen403&layout=compact&hide_border=true&theme=radical&cache_seconds=86400&hide=html,css,scss,handlebars" alt="lenhnguyen403's Github Top Language Stats"/>
     </td>
-    <td valign="top" width="33.3333%">
+  </tr>
+  <tr align="center">
+    <td valign="top" colspan="2">
       <h3>Contribution Stats</h3>
       <img src="https://giaang-github-readme-streak-stats.vercel.app?user=lenhnguyen403&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="lenhnguyen403's Github Streak"/>
     </td>
