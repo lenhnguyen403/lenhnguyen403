@@ -143,7 +143,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Programming Languages
+#### Programming Languages
 
 </td>
 <td>
@@ -167,7 +167,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Frontend
+#### Frontend
 
 </td>
 <td>
@@ -207,7 +207,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Backend
+#### Backend
 
 </td>
 <td>
@@ -232,7 +232,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <!-- <tr>
 <td>
 
-### Mobile
+#### Mobile
 
 </td>
 <td>
@@ -247,7 +247,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Database
+#### Database
 
 </td>
 <td>
@@ -278,7 +278,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Authentication
+#### Authentication
 
 </td>
 <td>
@@ -291,7 +291,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Real-time
+#### Real-time
 
 </td>
 <td>
@@ -304,7 +304,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Cloud, CI/CD, Deploying
+#### Cloud, CI/CD, Deploying
 
 </td>
 <td>
@@ -336,7 +336,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <!-- <tr>
 <td>
 
-### Package Management
+#### Package Management
 
 </td>
 <td>
@@ -353,7 +353,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <tr>
 <td>
 
-### Tools
+#### Tools
 
 </td>
 <td>
@@ -385,7 +385,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <!-- <tr>
 <td>
 
-### AI/Machine Learning/Deep Learning
+#### AI/Machine Learning/Deep Learning
 
 </td>
 <td>
