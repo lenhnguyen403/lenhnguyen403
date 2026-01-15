@@ -3,13 +3,10 @@
 -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lenhnguyen403&color=blue" alt="lenhnguyen403" height="25"/>
-  <a style="display: inline-block;" href="https://www.github.com/lenhnguyen403" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/lenhnguyen403?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-  <a style="display: inline-block;" href="https://www.x.com/diayti311" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/diayti311?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-  </a>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=lenhnguyen403&label=Profile%20Views&color=0e75b6&style=for-the-badge)]()
+  [![GitHub Followers](https://img.shields.io/github/followers/lenhnguyen403?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/lenhnguyen403)
+  
 </div>
 
 ######
@@ -131,12 +128,12 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <td>
 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-545d5f.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=dba515)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-8111fa.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-1c6aa6.svg?style=for-the-badge&logo=tailwind-css&logoColor=00bcff)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 <!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -172,7 +169,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 <td>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=whi)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -250,7 +247,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=f29221)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
