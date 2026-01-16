@@ -52,8 +52,8 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 - 📄 Know about my experiences **_..._**
 - ⚡ Fun fact **_..._**
 - 📫 How to reach me ***lenhnguyen10a22003@gmail.com***
-- 🌍 I'm based in Viet Nam
-- 🖥️ See my portfolio at [nguyenleviz](http://myapp.com)
+- 🌍 I'm based in Viet Nam **_..._**
+- 🖥️ See my portfolio at **_[...](https://google.com)_**
 
 <table>
   <tr align="center">
@@ -76,15 +76,15 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenhnguyen10a22003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-le-lenh-036a11264/)
-[![Facebook](https://img.shields.io/badge/Facebook-2E87FB?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.lenhnguyen.403)
+[![Gmail](https://img.shields.io/badge/Gmail-ededed?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:lenhnguyen10a22003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882bd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-le-lenh-036a11264/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.lenhnguyen.403)
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diayti311)
-[![Dribbble](https://img.shields.io/badge/Dribbble-E45285?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/nguyenn-lenhh)
-[![Behance](https://img.shields.io/badge/Behance-191919?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/masterdev3)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Zen0403/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-EE4831?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Dribbble](https://img.shields.io/badge/Dribbble-ededed?style=for-the-badge&logo=dribbble&logoColor=ea4c89)](https://dribbble.com/nguyenn-lenhh)
+[![Behance](https://img.shields.io/badge/Behance-ededed?style=for-the-badge&logo=behance&logoColor=0056ff)](https://www.behance.net/masterdev3)
+[![Reddit](https://img.shields.io/badge/Reddit-ededed?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://www.reddit.com/user/Zen0403/)
+[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-f70000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 </div>
 
@@ -103,10 +103,10 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-df9236?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-545d5f.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3781bd?style=for-the-badge&logo=python&logoColor=ffcb25)
+![C#](https://img.shields.io/badge/c%23-6e277e.svg?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
 
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -127,14 +127,14 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005f0f.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![React](https://img.shields.io/badge/react-545d5f.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=dba515)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8281fe?style=for-the-badge&logo=vite&logoColor=ffb303)
+![HTML5](https://img.shields.io/badge/html5-f16a2f.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1c76b8.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-8111fa.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1c6aa6.svg?style=for-the-badge&logo=tailwind-css&logoColor=00bcff)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-ededed?style=for-the-badge&logo=mui&logoColor=0071e1)
 
 <!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -168,11 +168,11 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6cb52d.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-ededed?style=for-the-badge&logo=springboot&logoColor=6cb52d)
+![REST API](https://img.shields.io/badge/REST%20API-9932cc?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-38b832?style=for-the-badge&logo=swagger&logoColor=ffffff)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448c5?style=for-the-badge&logo=cloudinary&logoColor=ffffff)
 
 <!--
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -247,10 +247,10 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![MySQL](https://img.shields.io/badge/mysql-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=f29221)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Postgres](https://img.shields.io/badge/postgres-285172.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ededed.svg?style=for-the-badge&logo=mongodb&logoColor=00c753)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-b91c1d?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -279,10 +279,10 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Keycloak](https://img.shields.io/badge/Keycloak-4B0082?style=for-the-badge&logo=keycloak&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-ededed?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=f9015b)
+![Keycloak](https://img.shields.io/badge/Keycloak-008aaa?style=for-the-badge&logo=keycloak&logoColor=ffffff)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-ededed?style=for-the-badge&logo=springsecurity&logoColor=6cb52d)
+![OAuth2](https://img.shields.io/badge/OAuth2-6b6161?style=for-the-badge&logo=oauth&logoColor=white)
 
 <!-- ![OAuth2](https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=for-the-badge) -->
 
@@ -297,8 +297,8 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![WebSocket](https://img.shields.io/badge/WebSocket-3c790a?style=for-the-badge&logo=websocket&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-25c2a0?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 </td>
 </tr>
@@ -311,9 +311,9 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-ffffff.svg?style=for-the-badge&logo=docker&logoColor=1d63ed)
+![Vercel](https://img.shields.io/badge/vercel-0a0a0a.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-ffffff.svg?style=for-the-badge&logo=nginx&logoColor=009639)
 
 <!-- ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -360,28 +360,28 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </td>
 <td>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![JHipster](https://img.shields.io/badge/JHipster-3E8ACC?style=for-the-badge&logo=jhipster&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ededed?style=for-the-badge&logo=git&logoColor=f05133)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-ededed?style=for-the-badge&logo=gitlab&logoColor=e24329)
+![JHipster](https://img.shields.io/badge/JHipster-ededed?style=for-the-badge&logo=jhipster&logoColor=3e8abf)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apidog](https://img.shields.io/badge/Apidog-FF6C37?style=for-the-badge&logo=apidog&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ededed?style=for-the-badge&logo=postman&logoColor=ff6c37)
+![Apidog](https://img.shields.io/badge/Apidog-3376ff?style=for-the-badge&logo=apidog&logoColor=white)
 
 <!-- ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-59666C?style=for-the-badge) -->
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-ededed.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF)
+![Confluence](https://img.shields.io/badge/confluence-ededed.svg?style=for-the-badge&logo=confluence&logoColor=%23172BF4)
+![Trello](https://img.shields.io/badge/Trello-ededed.svg?style=for-the-badge&logo=Trello&logoColor=0054ca)
+![Hashnode](https://img.shields.io/badge/Hashnode-ededed?style=for-the-badge&logo=hashnode&logoColor=2962ff)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
-![dbdiagram](https://img.shields.io/badge/dbdiagram.io-000000?style=for-the-badge&logo=dbdiagram&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-ededed.svg?style=for-the-badge&logo=figma&logoColor=8111fa)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-f608be?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Proto.io](https://img.shields.io/badge/Proto.io-2c2c96?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
+![dbdiagram](https://img.shields.io/badge/dbdiagram.io-287eff?style=for-the-badge&logo=dbdiagram&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-ededed?style=for-the-badge&logo=diagramsdotnet&logoColor=f08b0d)
 
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
@@ -412,10 +412,10 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 
 # 👯 Community
 
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=stackexchange&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ededed?style=for-the-badge&logo=stackoverflow&logoColor=f17e24)
+![DEV.to](https://img.shields.io/badge/DEV.to-ededed?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)
+![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-ededed?style=for-the-badge&logo=stackexchange&logoColor=2f96e8)
+![Codeforces](https://img.shields.io/badge/Codeforces-425e9c?style=for-the-badge&logo=codeforces&logoColor=f5c638)
 
 # 📊 Github Stats
 
