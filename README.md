@@ -284,6 +284,8 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-ededed?style=for-the-badge&logo=springsecurity&logoColor=6cb52d)
 ![OAuth2](https://img.shields.io/badge/OAuth2-6b6161?style=for-the-badge&logo=oauth&logoColor=white)
 
+<!-- ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) -->
+
 <!-- ![OAuth2](https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=for-the-badge) -->
 
 </td>
