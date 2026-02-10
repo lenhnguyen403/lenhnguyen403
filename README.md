@@ -108,7 +108,6 @@
 ![HTML5](https://img.shields.io/badge/html5-f16a2f.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1c76b8.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Postgres](https://img.shields.io/badge/postgres-285172.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ededed.svg?style=for-the-badge&logo=mongodb&logoColor=00c753)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-b91c1d?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-ffffff.svg?style=for-the-badge&logo=docker&logoColor=1d63ed)
@@ -118,13 +117,14 @@
 ![GitLab](https://img.shields.io/badge/GitLab-ededed?style=for-the-badge&logo=gitlab&logoColor=e24329)
 ![Postman](https://img.shields.io/badge/Postman-ededed?style=for-the-badge&logo=postman&logoColor=ff6c37)
 ![Apidog](https://img.shields.io/badge/Apidog-3376ff?style=for-the-badge&logo=apidog&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-ededed.svg?style=for-the-badge&logo=figma&logoColor=8111fa)
 
 <!--
+![Postgres](https://img.shields.io/badge/postgres-285172.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-ededed.svg?style=for-the-badge&logo=confluence&logoColor=%23172BF4)
 ![Jira](https://img.shields.io/badge/jira-ededed.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF)
 ![Trello](https://img.shields.io/badge/Trello-ededed.svg?style=for-the-badge&logo=Trello&logoColor=0054ca)
 ![Hashnode](https://img.shields.io/badge/Hashnode-ededed?style=for-the-badge&logo=hashnode&logoColor=2962ff)
-![Figma](https://img.shields.io/badge/figma-ededed.svg?style=for-the-badge&logo=figma&logoColor=8111fa)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-f608be?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Proto.io](https://img.shields.io/badge/Proto.io-2c2c96?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
 ![dbdiagram](https://img.shields.io/badge/dbdiagram.io-287eff?style=for-the-badge&logo=dbdiagram&logoColor=white)
