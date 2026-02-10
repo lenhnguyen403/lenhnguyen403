@@ -21,7 +21,10 @@
 
 ### I'm a
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gravitas+One&size=24&duration=3000&pause=5000&color=22B0F7&center=true&vCenter=true&random=true&width=435&lines=Java+Developer;Web+Developer;Backend+Developer;Frontend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gravitas+One&size=24&duration=2000&pause=3000&color=22B0F7&center=true&vCenter=true&random=true&width=435&lines=Java+Developer;Web+Developer;Backend+Developer;)](https://git.io/typing-svg)
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gravitas+One&size=24&duration=2000&pause=3000&color=22B0F7&center=true&vCenter=true&random=true&width=435&lines=Java+Developer;Web+Developer;Backend+Developer;Frontend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
+-->
 
 </div>
 
@@ -31,10 +34,6 @@
 
 ### Glad to see you here!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa obcaecati
-vero id qui? Totam debitis quia ipsam nesciunt quis odio optio reiciendis?
-Maiores laudantium quod at non reprehenderit numquam nam!
-
   </td>
 
   <td width="30%" valign="top">
@@ -43,6 +42,8 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 </tr>
 <table>
 
+- 📫 How to reach me ***lenhnguyen10a22003@gmail.com***
+- 🖥️ See my portfolio at **_[Leviz | Developer](https://lenhnguyen403-portfolio-io.vercel.app/)_**
 - 🔭 I’m currently working on **_..._**
 - 👯 I’m looking to collaborate on **_Facebook, LinkedIn_**
 - 🤝 I’m looking for help with **_..._**
@@ -50,10 +51,8 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 - 👨‍💻 All of my projects are available at **_..._**
 - ❓ Ask me about **_..._**
 - 📄 Know about my experiences **_..._**
+- 🌍 I'm based in Viet Nam
 - ⚡ Fun fact **_..._**
-- 📫 How to reach me ***lenhnguyen10a22003@gmail.com***
-- 🌍 I'm based in Viet Nam **_..._**
-- 🖥️ See my portfolio at **_[Leviz | Developer](https://lenhnguyen403-portfolio-io.vercel.app/)_**
 
 <table>
   <tr align="center">
@@ -92,41 +91,9 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 
 # 💻 Tech Stack - My Skill Set
 
-<table>
-<tr>
-<td>
-
-#### Programming Languages
-
-</td>
-<td>
-
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
-
 ![Java](https://img.shields.io/badge/Java-df9236?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-545d5f.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3781bd?style=for-the-badge&logo=python&logoColor=ffcb25)
-
-<!--
-![C#](https://img.shields.io/badge/c%23-6e277e.svg?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### Frontend
-
-</td>
-<td>
-
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005f0f.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![React](https://img.shields.io/badge/react-545d5f.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/Vite-8281fe?style=for-the-badge&logo=vite&logoColor=ffb303)
@@ -135,6 +102,12 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 ![Bootstrap](https://img.shields.io/badge/bootstrap-8111fa.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1c6aa6.svg?style=for-the-badge&logo=tailwind-css&logoColor=00bcff)
 ![Material UI](https://img.shields.io/badge/MUI-ededed?style=for-the-badge&logo=mui&logoColor=0071e1)
+
+<!--
+![C#](https://img.shields.io/badge/c%23-6e277e.svg?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
+
 
 <!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -156,17 +129,6 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) -->
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### Backend
-
-</td>
-<td>
 
 ![Spring](https://img.shields.io/badge/spring-6cb52d.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-ededed?style=for-the-badge&logo=springboot&logoColor=6cb52d)
@@ -224,38 +186,6 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 
 <!-- ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white) -->
 
-<!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) -->
-
-</td>
-</tr>
-
-<!-- <tr>
-<td>
-
-#### Mobile
-
-</td>
-<td>
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-</td>
-</tr> -->
-
-<tr>
-<td>
-
-#### Database
-
-</td>
-<td>
-
 ![MySQL](https://img.shields.io/badge/mysql-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Postgres](https://img.shields.io/badge/postgres-285172.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ededed.svg?style=for-the-badge&logo=mongodb&logoColor=00c753)
@@ -277,17 +207,6 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) -->
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### Authentication
-
-</td>
-<td>
-
 ![JWT](https://img.shields.io/badge/JWT-ededed?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=f9015b)
 ![Keycloak](https://img.shields.io/badge/Keycloak-008aaa?style=for-the-badge&logo=keycloak&logoColor=ffffff)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-ededed?style=for-the-badge&logo=springsecurity&logoColor=6cb52d)
@@ -295,32 +214,8 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 
 <!-- ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) -->
 
-<!-- ![OAuth2](https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=for-the-badge) -->
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### Real-time
-
-</td>
-<td>
-
 ![WebSocket](https://img.shields.io/badge/WebSocket-3c790a?style=for-the-badge&logo=websocket&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-25c2a0?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### Cloud, CI/CD, Deploying
-
-</td>
-<td>
 
 ![Docker](https://img.shields.io/badge/docker-ffffff.svg?style=for-the-badge&logo=docker&logoColor=1d63ed)
 ![Vercel](https://img.shields.io/badge/vercel-0a0a0a.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -345,33 +240,6 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) -->
-
-</td>
-</tr>
-
-<!-- <tr>
-<td>
-
-#### Package Management
-
-</td>
-<td>
-
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-</td>
-</tr> -->
-
-<tr>
-<td>
-
-#### Tools
-
-</td>
-<td>
 
 ![Git](https://img.shields.io/badge/Git-ededed?style=for-the-badge&logo=git&logoColor=f05133)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)
@@ -418,10 +286,6 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) -->
-
-</td>
-</tr>
-</table>
 
 # 👯 Community
 
