@@ -53,7 +53,7 @@ Maiores laudantium quod at non reprehenderit numquam nam!
 - ⚡ Fun fact **_..._**
 - 📫 How to reach me ***lenhnguyen10a22003@gmail.com***
 - 🌍 I'm based in Viet Nam **_..._**
-- 🖥️ See my portfolio at **_[Leviz | Developer](https://lenhnguyen403-github-io.vercel.app/)_**
+- 🖥️ See my portfolio at **_[Leviz | Developer](https://lenhnguyen403-portfolio-io.vercel.app/)_**
 
 <table>
   <tr align="center">
