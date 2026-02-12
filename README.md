@@ -53,7 +53,7 @@
 - ❓ Ask me about **_..._**
 - 📄 Know about my experiences **_..._**
 - 🌍 I'm based in Viet Nam
-- ⚡ Fun fact **_..._**
+- ⚡ Fun fact **_"Backend is the invisible engine that powers seamless user experiences."_**
 
 <table>
   <tr align="center">
