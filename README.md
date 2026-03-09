@@ -329,13 +329,13 @@
     </td>
     <td valign="top">
       <h3>Top Language Stats</h3>
-      <img src="https://giaang-github-readme-stats.vercel.app/api/top-langs/?username=lenhnguyen403&layout=compact&hide_border=true&theme=radical&cache_seconds=86400&hide=html,css,scss,handlebars" alt="lenhnguyen403's Github Top Language Stats"/>
+      <img src="https://giaang-github-readme-stats.vercel.app/api/top-langs/?username=lenhnguyen403&layout=compact&hide_border=true&theme=radical" alt="lenhnguyen403's Github Top Language Stats"/>
     </td>
   </tr>
   <tr align="center">
     <td valign="top" colspan="2">
       <h3>Contribution Stats</h3>
-      <img src="https://giaang-github-readme-streak-stats.vercel.app?username=lenhnguyen403&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="lenhnguyen403's Github Streak"/>
+      <img src="https://giaang-github-readme-streak-stats.vercel.app?user=lenhnguyen403&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="lenhnguyen403's Github Streak"/>
     </td>
   </tr>
 </table>
