@@ -85,6 +85,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-ededed?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://www.reddit.com/user/Zen0403/)
 [![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-f70000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/nguyen403)
 
 </div>
 
