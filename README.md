@@ -83,8 +83,8 @@
 [![Dribbble](https://img.shields.io/badge/Dribbble-ededed?style=for-the-badge&logo=dribbble&logoColor=ea4c89)](https://dribbble.com/nguyenn-lenhh)
 [![Behance](https://img.shields.io/badge/Behance-ededed?style=for-the-badge&logo=behance&logoColor=0056ff)](https://www.behance.net/nguyenlenh)
 [![Reddit](https://img.shields.io/badge/Reddit-ededed?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://www.reddit.com/user/Zen0403/)
-[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-f70000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-f70000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/nguyen403)
 
 </div>
