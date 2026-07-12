@@ -44,8 +44,8 @@
 <table>
 
 - 📫 How to reach me ***lenhnguyen10a22003@gmail.com***
-- 🖥️ See my portfolio at **_[Leviz | Developer](https://lenhnguyen403-portfolio-io.vercel.app/)_**
-- 🔭 I’m currently working on **_..._**
+- 🖥️ See my portfolio at **_[Nguyen | Developer](https://lenhnguyen403-portfolio-io.vercel.app/)_**
+- 🔭 I’m currently working on **_CI/CD with Github Actions_**
 - 👯 I’m looking to collaborate on **_Facebook, LinkedIn_**
 - 🤝 I’m looking for help with **_..._**
 - 🧠 I’m currently learning: **_Spring Boot, DDD, Microservices, ReactJS, UI/UX_**
