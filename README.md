@@ -73,7 +73,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ededed?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:lenhnguyen10a22003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882bd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-le-lenh-036a11264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882bd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenhnguyen1103/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.lenhnguyen.403)
 [![Dribbble](https://img.shields.io/badge/Dribbble-ededed?style=for-the-badge&logo=dribbble&logoColor=ea4c89)](https://dribbble.com/nguyenn-lenhh)
 [![Behance](https://img.shields.io/badge/Behance-ededed?style=for-the-badge&logo=behance&logoColor=0056ff)](https://www.behance.net/nguyenn-lenhh)
