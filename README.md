@@ -43,15 +43,15 @@
 </tr>
 <table>
 
-- 📫 How to reach me **_..._**
+<!--- 📫 How to reach me **_..._**-->
 - 🖥️ See my portfolio at **_[Nguyen | Developer](https://lenhnguyen403-portfolio-io.vercel.app/)_**
 - 🔭 I’m currently working on **_CI/CD with Github Actions, GitLab CI_**
 - 👯 I’m looking to collaborate on **_Facebook, LinkedIn_**
-- 🤝 I’m looking for help with **_..._**
+<!--- 🤝 I’m looking for help with **_..._**-->
 - 🧠 I’m currently learning: **_Spring Boot, DDD, Microservices, ReactJS, Angular22, NodeJS+ExpressJS, UI/UX Design_**
-- 👨‍💻 All of my projects are available at **_..._**
+<!--- 👨‍💻 All of my projects are available at **_..._**
 - ❓ Ask me about **_..._**
-- 📄 Know about my experiences **_..._**
+- 📄 Know about my experiences **_..._**-->
 - 🌍 I'm based in Viet Nam
 - ⚡ Fun fact **_"Backend is the invisible engine that powers seamless user experiences."_**
 
