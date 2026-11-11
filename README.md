@@ -43,7 +43,7 @@
 </tr>
 <table>
 
-- 📫 How to reach me ***lenhnguyen10a22003@gmail.com***
+- 📫 How to reach me **_..._**
 - 🖥️ See my portfolio at **_[Nguyen | Developer](https://lenhnguyen403-portfolio-io.vercel.app/)_**
 - 🔭 I’m currently working on **_CI/CD with Github Actions, GitLab CI_**
 - 👯 I’m looking to collaborate on **_Facebook, LinkedIn_**
