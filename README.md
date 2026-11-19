@@ -86,6 +86,7 @@
 
 ![Java](https://img.shields.io/badge/Java-df9236?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-545d5f.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6cb52d.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-ededed?style=for-the-badge&logo=springboot&logoColor=6cb52d)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
