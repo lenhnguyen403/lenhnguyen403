@@ -27,7 +27,7 @@
 
 <!--- 📫 How to reach me **_..._**-->
 - 🖥️ See me at **_[My Portfolio](https://lenhnguyen403-portfolio-io.vercel.app/)_**
-- 🔭 I’m currently working on **_CI/CD with Github Actions, GitLab CI_**
+- 🔭 I’m currently working on **_CI/CD with Github Actions, GitLab CI, GitLab CD_**
 - 👯 I’m looking to collaborate on **_Facebook, LinkedIn_**
 - 🧠 I’m currently learning: **_Spring Boot, DDD, Microservices, ReactJS, Angular22, NodeJS+ExpressJS, UI/UX Design_**
 - 🌍 I'm based in Viet Nam
@@ -73,6 +73,7 @@
 ![Java](https://img.shields.io/badge/Java-df9236?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-545d5f.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6cb52d.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-ededed?style=for-the-badge&logo=springboot&logoColor=6cb52d)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -100,6 +101,8 @@
 ![Postman](https://img.shields.io/badge/Postman-ededed?style=for-the-badge&logo=postman&logoColor=ff6c37)
 ![Figma](https://img.shields.io/badge/figma-ededed.svg?style=for-the-badge&logo=figma&logoColor=8111fa)
 ![dbdiagram](https://img.shields.io/badge/dbdiagram.io-287eff?style=for-the-badge&logo=dbdiagram&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <!--
 ![JWT](https://img.shields.io/badge/JWT-ededed?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=f9015b)
